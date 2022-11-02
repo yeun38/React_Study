@@ -33,12 +33,12 @@ AngularJS의 경우는 MVW(Model-View-Whatever) 구조입니다.
 리액트는 자바스크립트 라이브러리로 사용자 인터페이스를 만드는 데 사용합니다.
 특징으로는 오직 View만 신경 쓴다것 입니다.
 
-<span style="background-color:#D3D3D3">**컴포넌트**</span>
+<span style="color:#D3D3D3">**컴포넌트**</span>
 <br/>
 특정 부분이 어떻게 생길지 정하는 선언체로 템플릿과는 다른 개념입니다.<br/>
 컴포넌트 하나에서 해당 컴포넌트의 생김새와 작동 방식을 정의합니다.
 
-<span style="background-color:#D3D3D3">**렌더링**</span>
+<span style="color:#D3D3D3">**렌더링**</span>
 <br/>
 사용자화면에 뷰를 보여주는 것으로 초기 렌더링과 리렌더링 개념이 있습니다.
 
@@ -63,7 +63,7 @@ AngularJS의 경우는 MVW(Model-View-Whatever) 구조입니다.
 </details>
 <br/>
 
-<span style="background-color:#D3D3D3">**Virtual DOM**</span>
+<span style="color:#D3D3D3">**Virtual DOM**</span>
 <br/>
 최소한의 업데이트로 DOM 처리 횟수를 최소화하고 효율적으로 진행할 수 있습니다.
 <br/>
@@ -73,7 +73,7 @@ AngularJS의 경우는 MVW(Model-View-Whatever) 구조입니다.
 2. 이전 Virtual DOM에 있던 내용과 현재 내용을 비교합니다.
 3. 바뀐 부분만 실제 DOM에 적용합니다.
 
-<span style="background-color:#D3D3D3">**기타 특징**</span>
+<span style="color:#D3D3D3">**기타 특징**</span>
 <br/>
 리액트는 프레임워크가 아닌 라이브러리입니다. 다른 웹 프레임워크가 Ajax, 데이터 모델링, 라우팅 등과 같은 기능을 내자아고 있는 반면, 리액트는 뷰만 신경 쓰는 라이브러리이기 때문에 다른 기능은 직접 구현해서 사용해야합니다.
 <br/>
