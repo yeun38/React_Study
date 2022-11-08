@@ -107,4 +107,5 @@ export default Counter;
 **useState**
 
 - 객체가 아닌 자유로운 형태의 값 사용 가능
--
+- state를 바꿀때는 setState 혹은 useState를 통해 전달받은 세터 함수를 사용해야한다.
+- 한 컴포넌트 안에서 여러 번 사용 가능
